@@ -1,0 +1,2 @@
+Download the Superstore Sales dataset from Kaggle and save it as: superstore.csv
+in this folder. See README.md section 1 for the link and expected columns.

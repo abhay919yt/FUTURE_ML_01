@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE_%
+sarima,14445.1,16839.44,17.4
+regression_xgboost,19371.31,22251.32,24.96
+baseline_naive,20459.89,23430.16,25.39
